@@ -11,6 +11,7 @@ set -e
 unset GIT_DIR
 
 # config
+NODE_VERSION="0.6.19"
 SCONS_VERSION="1.2.0"
 S3_BUCKET="heroku-buildpack-nodejs"
 
